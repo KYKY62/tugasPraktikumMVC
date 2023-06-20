@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'suendri-uinsu/si-mvc',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => '4a64466a88020cba1b326e8e50e5f4400bdacd6a',
+        'name' => 'rizky-akbar-siregar/mvc-rizky',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'd1e0411f5201da481ec0bad08d8a360c03c5e2d0',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -28,10 +28,10 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'suendri-uinsu/si-mvc' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '4a64466a88020cba1b326e8e50e5f4400bdacd6a',
+        'rizky-akbar-siregar/mvc-rizky' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'd1e0411f5201da481ec0bad08d8a360c03c5e2d0',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

@@ -1,11 +1,11 @@
 {
-    "name": "suendri-uinsu/si-mvc",
-    "description": "Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2022",
+    "name": "rizky-akbar-siregar/mvc-rizky",
+    "description": "Tugas Praktikum PHP MVC Pemrograman Berbasis Web Lanjutan 2023",
     "type": "project",
     "authors": [
         {
-            "name": "suendri-uinsu",
-            "email": "suendri@uinsu.ac.id"
+            "name": "rizky-akbar-siregar",
+            "email": "rizkysrg62@gmail.com"
         }
     ],
     "autoload": {
