@@ -69,9 +69,16 @@ app/view/Namafolder/Namafile.php
 ## Testing
 
 ```
-http://localhost/si-mvc/
-http://localhost/si-mvc/home/index
-http://localhost/si-mvc/home/show
-http://localhost/si-mvc/home/detail/1
-http://localhost/si-mvc/dashboard
+http://localhost/pbwl5/
+http://localhost/pbwl5/login
+http://localhost/pbwl5/dashboard
+http://localhost/pbwl5/kategori
+http://localhost/pbwl5/kategori/input
+http://localhost/pbwl5/kategori/edit/1
+http://localhost/pbwl5/golongan
+http://localhost/pbwl5/golongan/input
+http://localhost/pbwl5/golongan/edit/3
+http://localhost/pbwl5/user
+http://localhost/pbwl5/user/input
+http://localhost/pbwl5/user/edit/3
 ```
